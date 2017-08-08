@@ -196,3 +196,5 @@ FakesAssemblies/
 *.opt
 
 !B2CAzureStorageClient.zip
+
+B2C-AzureBlobStorage-Client/app.config
